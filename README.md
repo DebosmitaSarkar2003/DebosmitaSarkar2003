@@ -84,8 +84,4 @@
 - **Multimodal Epilepsy Prediction via Late Fusion of EEG and Lifestyle Biomarkers** · DePaul CDM Research Symposium, 2026 (poster)
 - **Anti-Cancer Peptide Prediction Model** · ICICCT 2024
 
-## 📊 Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DebosmitaSarkar2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebosmitaSarkar2003&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
